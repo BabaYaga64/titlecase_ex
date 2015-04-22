@@ -4,7 +4,7 @@
 
 ###Description
 
-This application takes a string input and converts all characters to titlecase, or capitalizing proper nouns and leaving commonly-used articles, prepositions and conjunctions uncapitalized. I learned how to use Behavior Driven Development (BDD) testing and used PHPUnit to test specs. 
+This application takes a string input and converts all characters to titlecase, or capitalizing proper nouns and leaving commonly-used articles, prepositions and conjunctions uncapitalized. For example, "tHE lIttLE mERmaiD" is converted to "The Little Mermaid." I learned how to use Behavior Driven Development (BDD) testing and used PHPUnit to test specs while writing this application. 
 
 ###Technologies Used
 
